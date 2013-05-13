@@ -1,4 +1,3 @@
-
 //untuk koneksi database
 <?php
 $server = "localhost";
